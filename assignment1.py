@@ -90,4 +90,3 @@ while text:	# that is, while len(text)>0
 	
 	# remaining text for next scan
 	text = text[position:]
-	
