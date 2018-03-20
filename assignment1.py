@@ -79,8 +79,7 @@ td = { 'q0':{ '0':'q1',
               '9':'q6' },
      } 
 
-# the dictionary of accepting states and their
-# corresponding token
+# the dictionary of accepting states and their corresponding token
 ad = { 'q6':'TIME_TOKEN'
      }
 
