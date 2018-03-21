@@ -1,7 +1,6 @@
 def getchar(words,pos):
 	
 	if pos<0 or pos>=len(words): return None
-	
 	return words[pos]
 	
 
